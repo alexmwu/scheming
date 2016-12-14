@@ -12,5 +12,7 @@
 (define add4 (add 4))
 (define add5 (add 5))
 
+
 (display (add4 3))
 (display (add5 3))
+(display (fact 6))
